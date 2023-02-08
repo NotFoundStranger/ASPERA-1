@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package co.edu.sena.orderweb.utils;
+package co.edu.sena.aspera.utils;
 
 import javax.faces.application.FacesMessage;
 import javax.faces.context.FacesContext;
