@@ -1,0 +1,2 @@
+/ASPERA/nbproject/private/
+/ASPERA/target/
